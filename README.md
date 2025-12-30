@@ -1,5 +1,8 @@
 # tudo_project
 https://tudo-project.onrender.com
+![WhatsApp Image 2025-12-30 at 16 09 34_5593fb9b](https://github.com/user-attachments/assets/eec688ab-cc82-46d9-ab4d-2ad932a05de2)
+![WhatsApp Image 2025-12-30 at 16 09 34_630fe683](https://github.com/user-attachments/assets/c4e93851-a373-43b6-b450-eddf3d54e86f)
+![WhatsApp Image 2025-12-30 at 16 09 35_7b3e4858](https://github.com/user-attachments/assets/2b2be632-6d9f-4237-9d36-69fb900da8c3)
 PROJECT REPORT
 Title
 
